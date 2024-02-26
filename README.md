@@ -5,7 +5,7 @@ Welcome to the Cypress Automation Project at OneSeven Tech! This project is part
 ## Getting Started
 
 1. git clone https://github.com/kuhhne/Cypress-OneSeven.git
-2. npm install in the root of the project
+2. npm install on the root of the project
 3. npx cypress open to open the cypress UI
 
 
@@ -125,5 +125,5 @@ Cypress will execute the selected tests in the Chrome browser, allowing you to s
     Data Validation: Ensures that the input fields correctly validate the data entered by users, such as email formats, password strength, and mandatory fields.
 
     Security: Tests the implementation of security measures like CAPTCHAs and data encryption to protect the user and the platform from automated attacks and data breaches.
-    
+
     Feedback and Error Handling: Ensures that users receive appropriate feedback for incorrect or incomplete information, guiding them to correct errors and complete the registration process successfully.
