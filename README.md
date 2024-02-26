@@ -39,7 +39,9 @@ Cypress will execute the selected tests in the Chrome browser, allowing you to s
 
 # Testing the Login Feature
 
-    For OneSeven Tech's Cypress Automation Project, we're focusing on a critical user journey: the login functionality. This is a vital feature because it involves user authentication, a cornerstone of personalization and security. By testing the login and logout process end-to-end, we ensure that users can securely access their accounts and that their data remains protected throughout their session.
+    For OneSeven Tech's Cypress Automation Project, we're focusing on a critical user journey: the login functionality. 
+    This is a vital feature because it involves user authentication, a cornerstone of personalization and security. 
+    By testing the login and logout process end-to-end, we ensure that users can securely access their accounts and that their data remains protected throughout their session.
 
 # Why Test the Login Feature?
 
@@ -52,7 +54,9 @@ Cypress will execute the selected tests in the Chrome browser, allowing you to s
 
 # Testing the Search Feature
 
-    The search functionality is a vital feature for any e-commerce or content-driven website. It directly impacts the user's ability to find and interact with content or products, influencing their overall experience and satisfaction with the platform. By testing the search feature end-to-end, we ensure that users can successfully locate specific items, which is essential for sales conversion and user engagement.
+    The search functionality is a vital feature for any e-commerce or content-driven website. 
+    It directly impacts the user's ability to find and interact with content or products, influencing their overall experience and satisfaction with the platform. 
+    By testing the search feature end-to-end, we ensure that users can successfully locate specific items, which is essential for sales conversion and user engagement.
 
 # Why Test the Search Feature?
 
@@ -65,7 +69,9 @@ Cypress will execute the selected tests in the Chrome browser, allowing you to s
 
 # Testing the Shopping Cart Feature
 
-    The shopping cart feature's functionality encompasses adding items to the cart, adjusting quantities, reviewing selected items, and proceeding to checkout. Given the complexity of these interactions and their importance in the sales process, thorough testing is crucial. This is especially true if manual assessments have already identified potential bugs, as automated testing can provide a systematic way to verify fixes and ensure stability over time.
+    The shopping cart feature's functionality encompasses adding items to the cart, adjusting quantities, reviewing selected items, and proceeding to checkout.
+    Given the complexity of these interactions and their importance in the sales process, thorough testing is crucial. 
+    This is especially true if manual assessments have already identified potential bugs, as automated testing can provide a systematic way to verify fixes and ensure stability over time.
 
 # Why Test the Shopping Cart?
 
@@ -78,12 +84,14 @@ Cypress will execute the selected tests in the Chrome browser, allowing you to s
 
 # Testing the Browser Feature for Product Search
 
-    The browser feature within an app typically allows users to search and navigate through the available products or content more efficiently. This feature is especially important in e-commerce platforms where users come with specific needs or products in mind. Testing this feature involves simulating the search process a user would go through to find a specific product.
+    The browser feature within an app typically allows users to search and navigate through the available products or content more efficiently. 
+    This feature is especially important in e-commerce platforms where users come with specific needs or products in mind. 
+    Testing this feature involves simulating the search process a user would go through to find a specific product.
 
 # Why Test the Browser Feature?
 
     Usability: Ensures that users can easily navigate and use the search functionality to find products.
 
     Accuracy: Verifies that the search results are relevant and accurate, based on the search criteria entered by the user.
-    
+
     Performance: Confirms that the search function returns results quickly, enhancing the user experience by minimizing wait times.
