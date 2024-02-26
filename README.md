@@ -4,16 +4,16 @@ Welcome to the Cypress Automation Project at OneSeven Tech! This project is part
 
 ## Getting Started
 
-1- git clone https://github.com/kuhhne/Cypress-OneSeven.git
-2- npm install in the root of the project
-3- npx cypress open to open the cypress UI
+1. git clone https://github.com/kuhhne/Cypress-OneSeven.git
+2. npm install in the root of the project
+3. npx cypress open to open the cypress UI
 
 
 ### Prerequisites
 
-Node.JS v20.11.1: https://nodejs.org/en
-Cypress v10.4.0
-Chrome v122.0.0
+1. Node.JS v20.11.1: https://nodejs.org/en
+2. Cypress v10.4.0
+3. Chrome v122.0.0
 
 
 ## Running the tests
